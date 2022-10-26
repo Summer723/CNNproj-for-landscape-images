@@ -129,4 +129,7 @@ dmypy.json
 .pyre/
 
 # the dataset 
-/Users/summer/desktop/CNNproj-for-landscape-images/data
+/Users/summer/desktop/CNNproj-for-landscape-images/data/
+
+# pytorch dataset
+.pt
