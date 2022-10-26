@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# the dataset 
+/Users/summer/desktop/CNNproj-for-landscape-images/data
